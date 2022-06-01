@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dwiki Nuridhuha</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [https://dwikinuridhuha.github.io/](https://dwikinuridhuha.github.io/)
-
-- 📝 I regularly write articles on [https://dwikinuridhuha.blogspot.com/](https://dwikinuridhuha.blogspot.com/)
+- 👨‍💻 All of my projects are available at [https://dwiki-nuri-dhuha.netlify.app/](https://dwiki-nuri-dhuha.netlify.app/)
 
 - 📫 How to reach me **dwiki.nuridhuha@gmail.com**
 
