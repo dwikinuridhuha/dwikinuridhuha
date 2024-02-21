@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dwiki Nuri Dhuha From Indonesia</h1>
-<h3 align="center"> I’m Computer Geek – Full Stack Developer – Life Long Learner – Introvert – Perfectionist – Workaholic.</h3>
+<h3 align="center">I’m Muslim – Football Fan – Computer Geek – Front End Developer – Back End Developer – Internet of Thinking Developer – Workaholic – Life Long Learner – Introvert.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwikinuridhuha&label=Profile%20views&color=0e75b6&style=flat" alt="dwikinuridhuha" /> </p>
 
