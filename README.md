@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dwiki Nuri Dhuha From Indonesia</h1>
-<h3 align="center">I’m Introvert - Computer Geek - Long Life Learn & I'm Very Enthusiast of Hardware, Network, and Software Development/Engineering.</h3>
+<pre>
+<h3 align="center">
+  I’m Introvert - Computer Geek - Long Life Learn.
+</h3>
+ <h3 align="center"> 
+   I'm Very Enthusiast of Hardware, Network, and Software Development/Engineering.
+</h3>
+</pre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dwikinuridhuha&label=Profile%20views&color=0e75b6&style=flat" alt="dwikinuridhuha" /> </p>
 
