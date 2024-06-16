@@ -2,9 +2,7 @@
 <pre>
 <h3 align="center">
   I’m Introvert - Computer Geek - Long Life Learn.
-</h3>
- <h3 align="center"> 
-   I'm Very Enthusiast of Hardware, Network, and Software Development/Engineering.
+  I'm Very Enthusiast of Hardware, Network, and Software Development/Engineering.
 </h3>
 </pre>
 
