@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dwiki Nuri Dhuha From Indonesia</h1>
 <pre>
 <h3 align="center">
-  I’m Introvert - Computer Geek - Long Life Learn.
+  I’m Introvert - Computer Geek - Lifelong learning.
   I'm Very Enthusiast of Hardware, Network, and Software Development/Engineering.
 </h3>
 </pre>
